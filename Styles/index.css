@@ -18,20 +18,18 @@ body {
 
 :root {
     --color-gray-300: #D1D5DB;
-
     --color-text-dark: black;
+    --color-gray-100: #F3F4F6;
+    --color-white: #FFFFFF;
 
     --font-size-sm: 0.875rem;
+    --font-size-lg: 1.125rem;
 
     --line-height-sm: 1.25rem;
 
     --border-radius-md: 0.25rem;
 
     --duration-sm: 100ms;
-
-    --color-gray-100: #F3F4F6;
-
-    --color-white: #FFFFFF;
 }
 
 .app{
